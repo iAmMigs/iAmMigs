@@ -14,7 +14,7 @@ I am a Bachelor of Science in Information Technology graduate specializing in fu
 * 🎓 **Education:** B.S. in Information Technology (Specialization in Web & Mobile Applications)
 * 💻 **Core Focus:** Web Development & Mobile App Architecture
 * 💼 **Current Status:** Seeking full-time opportunities in Web & Mobile Development
-* 📍 **Location:** [Bulacan, Philippines]
+* 📍 **Location:** [Philippines]
 
 ---
 
@@ -60,14 +60,6 @@ I am a Bachelor of Science in Information Technology graduate specializing in fu
 > An onsite version of the ARIES registration system customized for basic education enrollment across FEU Alabang and FEU Diliman campuses.
 
 `Web Development` `PHP` `JavaScript` `MySQL`
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iAmMigs&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmMigs&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
 
 ---
 
