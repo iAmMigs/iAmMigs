@@ -13,9 +13,9 @@ I am a Bachelor of Science in Information Technology graduate specializing in fu
 ### 🚀 About Me
 * 🎓 **Education:** B.S. in Information Technology (Specialization in Web & Mobile Applications)
 * 💻 **Core Focus:** Web Development & Mobile App Architecture
-* 📚 **Currently Learning:** [Node.js]
+* 📚 **Currently Learning:** Node.js
 * 💼 **Current Status:** Seeking full-time opportunities in Web & Mobile Development
-* 📍 **Location:** [Philippines]
+* 📍 **Location:** Philippines
 
 ---
 
