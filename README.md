@@ -1,12 +1,20 @@
-# Hi, I'm Miguel 👋
-<p align="left">
-  <img src="https://img.shields.io/badge/Graduate-FEU%20Institute%20of%20Technology-004B23?style=for-the-badge&logo=education&logoColor=FFD700" alt="FEU Tech Alumnus" />
-  <img src="https://img.shields.io/badge/Degree-BS%20Information%20Technology-004B23?style=for-the-badge&logo=degree&logoColor=FFD700" alt="BSIT Degree" />
-</p>
+<div align="center">
 
-**BSIT Graduate | Web & Mobile Application Developer**
+  <sub style="border-radius: 50%; display: inline-block; overflow: hidden; width: 180px; height: 180px;">
+    <img src="./Osinada_PFP.jpg" width="180" height="180" alt="Miguel Profile Picture" style="object-fit: cover;" />
+  </sub>
 
-I am a Bachelor of Science in Information Technology graduate specializing in full-stack web and native mobile application development.
+  # Hi, I'm Miguel 👋
+  ### **FEU Tech BSIT Graduate | Web & Mobile Application Developer**
+
+  I am a Bachelor of Science in Information Technology graduate from **FEU Institute of Technology**, specializing in full-stack web and native mobile application development.
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Graduate-FEU%20Institute%20of%20Technology-004B23?style=for-the-badge&logo=education&logoColor=FFD700" alt="FEU Tech Alumnus" />
+    <img src="https://img.shields.io/badge/Degree-BS%20Information%20Technology-004B23?style=for-the-badge&logo=degree&logoColor=FFD700" alt="BSIT Degree" />
+  </p>
+
+</div>
 
 ---
 
